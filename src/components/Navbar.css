@@ -1,0 +1,24 @@
+#button1{
+    background-color: rgba(205, 205, 205, 0.093);
+    color: #fffffffe;
+    text-shadow: #77f72d21 1px 1px 1px;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:20px;
+    font-family: "Outfit", sans-serif;
+    font-size: larger;
+    font-weight: 550;
+
+}
+#button1:hover{
+    background-color: rgba(0, 0, 0, 0.727);
+    color: #acacac;
+}
+#header{
+    background-color: rgba(0, 0, 0, 0.363);
+}
